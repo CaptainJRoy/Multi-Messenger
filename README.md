@@ -5,6 +5,7 @@ It's basically spam, but i had nothing better to do so i gave it a shot.
 
 NOTE: It will send messages from your service provider, please make sure you don't have any fees associated with messaging.
 Feel free to share it with whomever you please.
+If you feel that somenthings could be improved, let me know.
 
 Have a great day!
 -CaptainRoy
